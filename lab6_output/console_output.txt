@@ -1,0 +1,24 @@
+============================================================
+ЛАБОРАТОРНАЯ РАБОТА 6: ВИРТУАЛЬНАЯ КЛАВИАТУРА
+============================================================
+Состояние клавиатуры загружено
+
+Выполняемая последовательность: a -> b -> c -> undo -> undo -> redo -> ctrl++ -> ctrl+- -> ctrl+p -> d -> undo -> undo
+
+Результат (как в TEXT FILE):
+a
+ab
+abc
+ab
+a
+ab
+volume increased +20%
+volume decreased -20%
+media player launched
+abd
+ab
+media player closed
+
+Журнал сохранен в lab6_output\journal.txt
+Консольный вывод - в lab6_output\console_output.txt
+Состояние клавиатуры - в lab6_output\keyboard_state.json

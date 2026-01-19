@@ -1,0 +1,41 @@
+{
+  "a": {
+    "type": "KeyCommand",
+    "symbol": "a"
+  },
+  "b": {
+    "type": "KeyCommand",
+    "symbol": "b"
+  },
+  "c": {
+    "type": "KeyCommand",
+    "symbol": "c"
+  },
+  "d": {
+    "type": "KeyCommand",
+    "symbol": "d"
+  },
+  "ctrl++": {
+    "type": "VolumeUpCommand",
+    "step": 20
+  },
+  "ctrl+-": {
+    "type": "VolumeDownCommand",
+    "step": 20
+  },
+  "ctrl+p": {
+    "type": "MediaPlayerCommand"
+  },
+  "space": {
+    "type": "KeyCommand",
+    "symbol": " "
+  },
+  "enter": {
+    "type": "KeyCommand",
+    "symbol": "\n"
+  },
+  "e": {
+    "type": "KeyCommand",
+    "symbol": "e"
+  }
+}

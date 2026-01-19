@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Иван Петров",
+    "login": "ivan",
+    "password": "12345",
+    "email": "ivan.new@mail.com",
+    "address": "Москва, ул. Ленина, 1"
+  },
+  {
+    "id": 1,
+    "name": "Мария Сидорова",
+    "login": "maria",
+    "password": "qwerty",
+    "email": "maria@mail.com",
+    "address": null
+  },
+  {
+    "id": 3,
+    "name": "авдал",
+    "login": "poi",
+    "password": "3456",
+    "email": null,
+    "address": null
+  }
+]

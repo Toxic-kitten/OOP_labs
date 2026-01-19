@@ -1,0 +1,8 @@
+{
+    "a": "a",
+    "b": "b",
+    "c": "c",
+    "up": "volume +10",
+    "down": "volume -10",
+    "space": "media player"
+}
